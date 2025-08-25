@@ -5,7 +5,7 @@ The Employee Management System is a software application developed using Python 
 
 🔹 Key Features:
 
-Employee Records Management: Add, update, display,promote, search, and delete employee details such as name, ID, designation, salary, and contact information.
+Employee Records Management: Add, display, promote, search, and remove employee details such as name, ID, designation, salary, and contact information.
 
 Database Integration: Uses MySQL for secure and reliable storage of employee information.
 
